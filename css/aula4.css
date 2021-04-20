@@ -1,0 +1,25 @@
+h1{
+	font-size: 36px;
+	text-align: center;
+	color: #FF0000;
+	background-color: black;
+}
+h2{
+	font-size: 24px;
+	text-align: center;
+	color: silver;
+}
+p{
+	font-family: times;
+	font-size: 14px;
+	margin-left: 0.5in;
+	color: silver;
+	font-weight: bold;
+	margin-top: 20px;
+}
+body{
+	background-image: url("https://i.pinimg.com/originals/15/25/8d/15258ddc8cb54bc3a234404c4676a6bc.jpg");
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-attachment: fixed;
+}
